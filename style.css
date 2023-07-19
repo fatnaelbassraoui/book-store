@@ -1,0 +1,28 @@
+
+.card-title{
+    font-size: 16px;
+	font-weight: bold;
+	display: list-item; 
+}
+
+.category{
+    font-size: 14px;
+	font-weight: bold;
+}
+
+.product-price{
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.navbar{
+    background-color: #476c88;
+}
+
+.hide{
+	display: none;
+}
+
+.cardImg{
+height: 21rem;
+}
